@@ -1,4 +1,4 @@
-### Hey, eu sou o Gabriel Boçoen! �
+### Hey, eu sou o Gabriel Boçoen!
 - Pronouns: He/him - Ele/dele.
 <!--
 **gabrielbocoen/gabrielbocoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
