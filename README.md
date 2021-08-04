@@ -1,4 +1,5 @@
 ### Hey, eu sou o Gabriel Boçoen!
+- I'm studying Java;
 - Pronouns: He/him - Ele/dele.
 <div>
   <a href="https://github.com/gabrielbocoen">
