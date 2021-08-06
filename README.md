@@ -1,4 +1,4 @@
-### Hey, eu sou o Gabriel Boçoen!
+### Hello World, eu sou o Gabriel Boçoen!
 - I'm studying Java;
 - Pronouns: He/him - Ele/dele.
 <div>
