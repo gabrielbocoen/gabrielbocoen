@@ -1,7 +1,13 @@
 ### _Hello World! Eu sou o Gabriel Boçoen!_
+
+ <div style="display: inline_block"><br>
+<img align="right" alt="Gmns-Gif" height="45" width="60" src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/GB.png?raw=true">
+</div>
+
 - 16
 - I'm studying Java ☕
 - __Pronouns:__ He/him - Ele/dele.
+
 ##
 
 <div style="display: inline_block"><br>
