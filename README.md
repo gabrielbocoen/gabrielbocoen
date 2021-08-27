@@ -1,7 +1,8 @@
-### Hello World! Eu sou o Gabriel Boçoen!
+### _Hello World! Eu sou o Gabriel Boçoen!_
 - 16
 - I'm studying Java ☕
-- Pronouns: He/him - Ele/dele.
+- __Pronouns:__ He/him - Ele/dele.
+##
 
 <div style="display: inline_block"><br>
 <img align="right" alt="Gmns-Gif" height="90" width="120" src="https://media0.giphy.com/media/Zcci1utNi0VeM5qlWw/200w.gif?cid=82a1493bal7vo9ulkx3me0kodx7icvqi09hq32qanobbzojj&rid=200w.gif&ct=s">
