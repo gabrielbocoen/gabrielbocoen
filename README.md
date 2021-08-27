@@ -1,6 +1,6 @@
 ### Hello World, eu sou o Gabriel Boçoen!
 - 16
-- I'm studying Java;
+- I'm studying Java ☕
 - Pronouns: He/him - Ele/dele.
 
 <div style="display: inline_block"><br>
