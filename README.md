@@ -1,5 +1,5 @@
  <div style="display: inline_block"><br>
-<img align="center" alt="Gmns-Gif" height="150" width="1100" src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/GB_banner.jpeg?raw=true">
+<img align="center" alt="Gmns-Gif" height="150" width="1100" src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/GB_banner.jpeg?raw=true">
 </div>
 
 ### _Hello World! Eu sou o Gabriel Boçoen!_
