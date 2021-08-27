@@ -15,7 +15,7 @@
 ##
 
 <div style="display: inline_block"><br>
-<img align="right" alt="Gmns-Gif" height="90" width="120" src="https://media0.giphy.com/media/Zcci1utNi0VeM5qlWw/200w.gif?cid=82a1493bal7vo9ulkx3me0kodx7icvqi09hq32qanobbzojj&rid=200w.gif&ct=s">
+<img align="right" alt="Gmns-Gif" height="90" width="120" src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/blohsh.gif?raw=true">
 </div>
 
 <div>
