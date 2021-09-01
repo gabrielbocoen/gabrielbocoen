@@ -1,8 +1,7 @@
  <div style="display: inline_block"><br>
 <img align="center" alt="Gmns-Gif" height="150" width="1100" src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/GB_banner.jpeg?raw=true">
 </div>
-
-### _Hello World! Eu sou o Gabriel Boçoen!_
+<h2 align="center"> <i> Hello World! Eu sou o Gabriel Boçoen! </i> </h2>
 
  <div style="display: inline_block"><br>
 <img align="right" alt="Gmns-Gif" height="45" width="60" src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/GB.png?raw=true">
