@@ -9,7 +9,7 @@
 </div>
 
 - 16
-- I'm studying Java ☕
+- I'm studying English n Java ☕
 - __Pronouns:__ He/him - Ele/dele.
 
 ##
