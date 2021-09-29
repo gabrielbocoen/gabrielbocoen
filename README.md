@@ -24,6 +24,6 @@
   
 ![Snake animation](https://github.com/gabrielbocoen/gabrielbocoen/blob/output/github-contribution-grid-snake.svg)
 
- <!--
+ 
 <img src="https://komarev.com/ghpvc/?username=gabrielbocoen&color=green" alt="gabrielbocoen" />
--->
+
