@@ -8,10 +8,10 @@
  <img align="right" alt="Gmns-Gif" height="45" width="60" src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/GB.png?raw=true">
 </div>
 
-𖣔 17 <br>
-𖣔 Boçoen não tem ~ <br>
-𖣔 I'm studying English n Java ☕<br>
-𖣔 __Pronouns:__ He/him (Ele/dele)<br>
+✹ 17 <br>
+✹ Boçoen não tem ~ <br>
+✹ I'm studying English n Java ☕<br>
+✹ __Pronouns:__ He/him (Ele/dele)<br>
 
 ##
 
