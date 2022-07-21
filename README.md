@@ -10,9 +10,9 @@
 </div>
 
 ✹ 17 <br>
-✹ Boçoen não tem ~ <br>
-✹ I'm studying English n Java ☕<br>
-✹ __Pronouns:__ He/him (Ele/dele)<br>
+✹ BOÇOEN NÃO TEM ~ <br>
+✹ I'M STUDYING LANGUAGES ☕<br>
+✹ __PRONOUNS:__ HE/HIM (ELE/DELE)<br>
 
 ##
 
