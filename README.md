@@ -2,7 +2,8 @@
  <img align="center" alt="Gmns-Gif" height="150" width="1100" src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/BOCOEN%20(1).png?raw=true">
 </div>
 
-<h2 align="center"> <b> HELLO WORLD! </b> </h2>
+<h2 align="center"> <b> HELLO WORLD! </b> <br> CONTATO: BOCOENGABRIEL@GMAIL.COM </h2>
+
 
 <div style="display: inline_block"><br>
  <img align="right" alt="Gmns-Gif" height="45" width="60" src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/GB.png?raw=true">
