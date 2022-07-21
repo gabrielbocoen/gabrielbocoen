@@ -11,7 +11,7 @@
 - 17
 - Boçoen não tem ~ 
 - I'm studying English n Java ☕
-- __Pronouns:__ He/him - Ele/dele.
+- __Pronouns:__ He/him (Ele/dele)
 
 ##
 
