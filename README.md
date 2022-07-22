@@ -17,7 +17,7 @@
 ##
 
 <div style="display: inline_block"><br>
- <img align="right" alt="Gmns-Gif" height="90" width="120" src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/blohsh.gif?raw=true">
+ <img align="right" alt="Gmns-Gif" height="90" width="120" src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/sun.gif?raw=true">
  <a href="https://github.com/gabrielbocoen">
    
  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=gabrielbocoen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
