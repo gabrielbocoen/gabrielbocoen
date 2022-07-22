@@ -27,5 +27,11 @@
 ![Snake animation](https://github.com/gabrielbocoen/gabrielbocoen/blob/output/github-contribution-grid-snake.svg)
 
  
+  ###
+
+<div>
+  <a href="https://www.linkedin.com/in/gabrielbocoen/" target="_blank"><img src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/Redes%20Sociais/linked-in.png?raw=true" target="_blank"/></a>
+</div>
+<br>
 <img src="https://komarev.com/ghpvc/?username=gabrielbocoen&color=orange" alt="gabrielbocoen" />
 
