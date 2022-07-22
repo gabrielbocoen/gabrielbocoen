@@ -11,7 +11,7 @@
 
 17 <br>
 ✹ BOÇOEN NÃO TEM ~ <br>
-✹ LÓGICA EM HTML, JAVASCRIPT, JAVA E SQL ✹ GRADUANDO EM LETRAS (PT-EN)<br>
+✹ LÓGICA EM HTML, JAVASCRIPT, JAVA E SQL ✹ GRADUANDO EM LETRAS (PT-EN) NA <a href="https://www.pucpr.br/">PUCPR</a><br>
 ✹ __PRONOUNS:__  ELE/DELE (HE/HIM)<br>
 
 ##
