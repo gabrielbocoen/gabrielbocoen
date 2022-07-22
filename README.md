@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/gabrielbocoen/" target="_blank"><img src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/Redes%20Sociais/linked-in.png?raw=true" target="_blank"/></a>
   <a href="https://www.instagram.com/gabrielbocoen/" target="_blank"><img src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/Redes%20Sociais/INSTAGRAM.png?raw=true" target="_blank"/></a>
  <a href="https://www.facebook.com/gabrielbocoen/" target="_blank"><img src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/Redes%20Sociais/FACEBOOK.png?raw=true" target="_blank"/></a>
- <a href="mailto:bocoengabriel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+ <a href="mailto:bocoengabriel@gmail.com" target="_blank"><img src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/Redes%20Sociais/GMAIL.png?raw=true"/></a>
 </div>
 <br>
 <img src="https://komarev.com/ghpvc/?username=gabrielbocoen&color=orange" alt="gabrielbocoen" />
