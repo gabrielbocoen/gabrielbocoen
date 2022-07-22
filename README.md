@@ -9,7 +9,7 @@
  <img align="right" alt="Gmns-Gif" height="45" width="60" src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/GB.png?raw=true">
 </div>
 
-✹ 17 <br>
+17 <br>
 ✹ BOÇOEN NÃO TEM ~ <br>
 ✹ LÓGICA DE HTML, JAVASCRIPT, JAVA E SQL ✹ GRADUANDO EM LETRAS (PT-EN)<br>
 ✹ __PRONOUNS:__ HE/HIM (ELE/DELE)<br>
