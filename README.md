@@ -9,9 +9,8 @@
  <img align="right" alt="Gmns-Gif" height="45" width="60" src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/GB.png?raw=true">
 </div>
 
-17 <br>
 ✹ BOÇOEN NÃO TEM ~ <br>
-✹ LÓGICA EM HTML, JAVASCRIPT, JAVA E SQL PELA <a href="https://www.alura.com.br/">ALURA</a> ✹ GRADUANDO EM LETRAS (PT-EN) NA <a href="https://www.pucpr.br/">PUCPR</a> ✹ PROFESSOR DE INGLÊS DA <a href="https://www.knnidiomas.com.br/">KNN</a>
+✹ LÓGICA EM HTML, JAVASCRIPT, JAVA E SQL PELA <a href="https://www.alura.com.br/">ALURA</a> ✹ GRADUANDO EM LETRAS (PT-EN) NA <a href="https://www.pucpr.br/">PUCPR</a> ✹ PROFESSOR DE LÍNGUA INGLESA DA <a href="https://www.knnidiomas.com.br/">KNN</a>
 <br>
 ✹ __PRONOUNS:__  ELE/DELE (HE/HIM)<br>
 
