@@ -9,10 +9,9 @@
  <img align="right" alt="Gmns-Gif" height="45" width="60" src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/GB.png?raw=true">
 </div>
 
-✹ BOÇOEN NÃO TEM ~ <br>
-✹ LÓGICA EM HTML, JAVASCRIPT, JAVA E SQL PELA <a href="https://www.alura.com.br/">ALURA</a> ✹ GRADUANDO EM LETRAS (PT-EN) NA <a href="https://www.pucpr.br/">PUCPR</a> ✹ PROFESSOR DE LÍNGUA INGLESA DA <a href="https://www.knnidiomas.com.br/">KNN</a>
+✹ LÓGICA EM HTML, JAVASCRIPT, JAVA E SQL PELA <a href="https://www.alura.com.br/">ALURA</a> 
 <br>
-✹ __PRONOUNS:__  ELE/DELE (HE/HIM)<br>
+
 
 ##
 
@@ -28,13 +27,12 @@
 
 ##
  
-  ### REDES SOCIAIS:
+  ### CONTATO:
 
 <div>
   <a href="https://www.linkedin.com/in/gabrielbocoen/" target="_blank"><img src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/Redes%20Sociais/linked-in.png?raw=true" target="_blank"/></a>
-  <a href="https://www.instagram.com/gabrielbocoen/" target="_blank"><img src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/Redes%20Sociais/INSTAGRAM.png?raw=true" target="_blank"/></a>
+  <a href="mailto:bocoengabriel@gmail.com" target="_blank"><img src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/Redes%20Sociais/GMAIL.png?raw=true"/></a>
  <a href="https://www.facebook.com/gabrielbocoen/" target="_blank"><img src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/Redes%20Sociais/FACEBOOK.png?raw=true" target="_blank"/></a>
- <a href="mailto:bocoengabriel@gmail.com" target="_blank"><img src="https://github.com/gabrielbocoen/gabrielbocoen/blob/main/arts/Redes%20Sociais/GMAIL.png?raw=true"/></a>
 </div>
 <br>
 <img src="https://komarev.com/ghpvc/?username=gabrielbocoen&color=orange" alt="gabrielbocoen" />
